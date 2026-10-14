@@ -1,0 +1,133 @@
+body {
+    background-color: #f2f6fa;
+    font-family: Arial;
+    margin: 20px;
+    color: #243447;
+}
+
+.header {
+    background-color: #1d4e7e;
+    color: white;
+    text-align: center;
+    padding: 30px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.header h1 {
+    font-size: 32px;
+}
+
+.header a {
+    color: white;
+    text-decoration: none;
+    background-color: #315f89;
+    padding: 10px;
+    border-radius: 20px;
+    margin: 5px;
+}
+
+.section {
+    background-color: white;
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+    overflow: auto;
+}
+
+h2 {
+    color: #174775;
+}
+
+hr {
+    border: 1px solid #e0eaf0;
+}
+
+.profile {
+    border-radius: 60px;
+    float: left;
+    margin: 10px 20px 10px 0;
+}
+
+.button {
+    display: inline-block;
+    background-color: #0872ad;
+    color: white;
+    text-decoration: none;
+    padding: 10px;
+    border-radius: 5px;
+}
+
+.skill {
+    background-color: #f2f6fa;
+    border: 1px solid #e0eaf0;
+    padding: 10px;
+    margin: 10px;
+    border-radius: 10px;
+    display: inline-block;
+    width: 130px;
+    vertical-align: top;
+}
+
+.skill h3 {
+    color: #0872ad;
+}
+
+.job {
+    background-color: #f2f6fa;
+    padding: 15px;
+    margin: 15px 0;
+    border-left: 4px solid #0872ad;
+    border-radius: 10px;
+    overflow: auto;
+}
+
+.company {
+    float: left;
+    width: 60px;
+    height: 60px;
+    margin: 0 15px 10px 0;
+    border-radius: 10px;
+}
+
+.job-text {
+    overflow: hidden;
+}
+
+.job h3 {
+    font-size: 16px;
+}
+
+.job h4 {
+    color: #0872ad;
+}
+
+.contact {
+    background-color: #117fee;
+    color: white;
+    padding: 25px;
+    border-radius: 15px;
+    margin-bottom: 20px;
+}
+
+.contact h2 {
+    color: white;
+}
+
+.contact button a {
+    display: inline-block;
+    color: rgb(6, 5, 18);
+    text-decoration: none;
+    background-color: #1083ef;
+    padding: 10px;
+    border-radius: 5px;
+    margin: 5px;
+}
+
+.footer {
+    background-color: #061b34;
+    color: white;
+    text-align: center;
+    padding: 15px;
+    border-radius: 10px;
+}
